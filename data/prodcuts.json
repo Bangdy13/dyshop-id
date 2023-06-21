@@ -1,0 +1,119 @@
+[
+{
+    "name":"Karpet Bulu Rasfur Murah/Tikar Bulu uk 150x100cm",
+    "price":49000,
+    "seller":"Ita Beauty Shop",
+    "description":"Karpet bulu rasfur lembut dan halus aman untuk anak-anak, Karpet ini bisa dipakai untuk ambal meja, ambal kursi, digelar diruang tamu atau depan tv agar ruangan lebih bagus dan cantik bisa dijadikan untuk kado dll",
+    "images": [
+    {
+    "public_id": "bangdy-media/karpet_bulu_offch3",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620860/bangdy-media/karpet_bulu_offch3.jpg"
+    },
+    {
+    "public_id": "bangdy-media/karpet_bulu_1_lwmbdm",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620858/bangdy-media/karpet_bulu_1_lwmbdm.jpg"
+    }
+    ],
+    "reviews": [],
+    "ratings": 3,
+    "stock":10,
+    "category":"Perlengkapan Rumah"
+},
+{
+    "name":"Rak Buku Portable Rak Buku Susun 4 gsf Tri J",
+    "price":39000,
+    "seller":"Ita Beauty Shop",
+    "description":"Rak portable serbaguna 8 susun, cocok untuk merapikan buku pelajaran anak agar tersusun rapi dan mudah dicari saat dibutuhkan. Cocok juga untuk tempat majalah, dokumen kantor atau perlengkapan rumah dan dapur.",
+    "images": [
+    {
+    "public_id": "bangdy-media/rak_buku_galjns",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620860/bangdy-media/rak_buku_galjns.jpg"
+    }
+    
+    ],
+    "reviews": [],
+    "ratings": 4,
+    "stock":10,
+    "category":"Perlengkapan Rumah"
+},
+{
+    "name":"Tas anak mixue/Tas TK",
+    "price":38000,
+    "seller":"Ita Beauty Shop",
+    "description":"Tas dengan motif yg lucu bergambar stumble guys, captain amerika dan batman.terdiri dari dua sekat dengan gambar yang tajam dan tidak mudah pudar.ada hadiah tmpat pensil nya ya kk tidak mudah robek. dan motif yg lucu-lucu pastinya.",
+    "images": [
+    {
+    "public_id": "bangdy-media/tas_dtrvdq",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620861/bangdy-media/tas_dtrvdq.jpg"
+    }
+    ],
+    "reviews": [],
+    "ratings": 5,
+    "stock":10,
+    "category":"Fashion Bayi & Anak"
+},
+{
+    "name":"Oximeter Lk88 Alat Ukur Saturasi Kadar Oksigen",
+    "price":60000,
+    "seller":"Ita Beauty Shop",
+    "description":"Specifications: Material: Lastics Color: Blue, White (optional)Display Method: TFT 4 colourBlood Oxygen: 0%-100% ±2%Pulse Rate Display: 0-250bpm ±1bpm Working Current: =50mAOperation Mode: IntermittentCell: 2 x AAA alkaline cells (not included)Item Size: 57.3 * 33.2 * 32.2mm / 2.26 * 1.31 * 1.27in Package Weight: 47g / 1.66ounces Package Size: 93.3 * 63.9 * 39.6mm / 3.67 * 2.52 * 1.56in Packing List: 1 * Fingertip Oximeter 1 * Hanging Rope 1 * User Manual",
+    "images": [
+    {
+    "public_id": "bangdy-media/oximeter_dvgimm",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620859/bangdy-media/oximeter_dvgimm.jpg"
+    }
+    ],
+    "reviews": [],
+    "ratings": 2,
+    "stock":10,
+    "category":"Kesehatan"
+},
+{
+    "name":"Pensil Warna",
+    "price":15000,
+    "seller":"Ita Beauty Shop",
+    "description":"Pensil warna",
+    "images": [
+    {
+    "public_id": "bangdy-media/pensil_wkuysi",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620860/bangdy-media/pensil_wkuysi.jpg"
+    }
+    ],
+    "reviews": [],
+    "ratings": 4.5,
+    "stock":10,
+    "category":"Buku & Alat Tulis"
+},
+{
+    "name":"Kipas Angin 3in1 Tornado Kick on",
+    "price":189000,
+    "seller":"Ita Beauty Shop",
+    "description":"Jenis Produk: Wadesta (Wall, Desk, Stand) Material Kipas: Besi Diameter: 18 Inch (45 cm) Daya: 80 Watt Voltase: 220 V ~ 50 Hz Pengaturan Kecepatan: 3 Mode Kecepatan √ Barang Asli √ Sertifikat SNI √ Motor Handal √ Desain Menarik √ Baling-baling Lebih Besar (18 Inch) √ 3",
+    "images": [
+    {
+    "public_id": "bangdy-media/kipas_angin_eb6mb9",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620858/bangdy-media/kipas_angin_eb6mb9.jpg"
+    }
+    ],
+    "reviews": [],
+    "ratings": 1,
+    "stock":10,
+    "category":"Elektronik"
+},
+{
+    "name":"Set Menicure Karakter/Alat Potong Kuku",
+    "price":12000,
+    "seller":"Ita Beauty Shop",
+    "description":"Kelengkapan : * 1pc Gunting Kuku Standar (Biasa) * 1pc Gunting Kuku Lancip * 1pc Pinset * 1pc Pengasah Kuku * 1pc Korek Kuping * 1pc Pencungkil * 1pc Gunting Lancip",
+    "images": [
+    {
+    "public_id": "bangdy-media/potong_kuku_xu0hcj",
+    "url": "https://res.cloudinary.com/bangdy/image/upload/v1686620860/bangdy-media/potong_kuku_xu0hcj.jpg"
+    }
+    ],
+    "reviews": [],
+    "ratings": 3.5,
+    "stock":10,
+    "category":"Perawatan & Kecantikan"
+}
+]
